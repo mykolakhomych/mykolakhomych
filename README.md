@@ -1,6 +1,6 @@
-## Hi 👋, I'm MykolaKhomych
+## Hi 👋, I'm Mykola Khomych
 
-💻 Full Stack | DevOps | CMS development
+💻 Senior Full Stack | DevOps | CMS Development
 
 🧑‍💻 Open source enthusiast
 
