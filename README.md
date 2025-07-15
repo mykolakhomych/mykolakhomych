@@ -1,4 +1,4 @@
-## Hi 👋, I'm Mykola Khomych
+## Hi 👋, I'm Serhii Antoniuk
 
 💻 Senior Full Stack | DevOps | CMS Development
 
